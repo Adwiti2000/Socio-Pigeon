@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502756220129",
+    "project_id": "socio-pigeon",
+    "storage_bucket": "socio-pigeon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502756220129:android:40c069edf5c0c5d0322ba0",
+        "android_client_info": {
+          "package_name": "com.example.sociopigeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502756220129-vvd7oqnaaecnr8omkp2ih720ntl931p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmubfVwYs8JKUdH0odIoQjF1AOjO8Ql0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502756220129-vvd7oqnaaecnr8omkp2ih720ntl931p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
